@@ -135,7 +135,15 @@
     ]
   },
   {
-    "name": "Calculator",
+    "name": "Weaviate",
+    "pluginKey": "weaviate",
+    "description": "Use the Weaviate tool to retrieve search results relevant to your input.",
+    "icon": "https://weaviate.io/img/site/weaviate-nav-logo-light.svg",
+    "isAuthRequired": "false",
+    "authConfig": []
+  },
+  {
+    "name": "W",
     "pluginKey": "calculator",
     "description": "Perform simple and complex mathematical calculations.",
     "icon": "https://i.imgur.com/RHsSG5h.png",
